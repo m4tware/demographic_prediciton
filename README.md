@@ -5,7 +5,6 @@ and ML model results.
 
 ## Objectives achieved
 
-- Contrast official estimations against the predictions given by the ML model.
 - Apply both Data Cleaning & Transformation into raw data.
 - Make basic ETL in order to prepare data for Machine Learning training and Data Visualization.
 
@@ -27,3 +26,4 @@ and ML model results.
 - Specify Data splits for Training, Validation And Testing for Machine Learning model.
 - Train a model for data prediction.
 - Create PowerBI dashboards with the intention to show and compare the official stimations with the Machine Learning results.
+- Contrast official estimations against the predictions given by the ML model.
